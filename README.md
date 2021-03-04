@@ -1,4 +1,4 @@
 # TonyServer.github.io
-Repository that projects personal webserver capabilities to github  
-Now with more rasmataz 2!
+Repository that provides personal webserver capabilities to github.  
 
+Can be used to host documentation for other repositories.
